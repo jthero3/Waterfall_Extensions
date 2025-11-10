@@ -1,8 +1,13 @@
 # *WaterfallExtensions*
 
 
+Waterfall configs for mods that don't have them out of the box!
 
-Waterfall configs for mods that don't have them out of the box
+## Gallery
+
+### Apoapsis Motors:
+<img width="2560" height="1440" alt="screenshot45" src="https://github.com/user-attachments/assets/3a9189a2-6b54-48b9-8fa5-2514b33fccf4" />
+
 
 
 ## DEPENDENCIES
@@ -27,3 +32,14 @@ Waterfall configs for mods that don't have them out of the box
 ## License
 
 Configs are CC-NC-ND
+
+
+## Changelog:
+
+### 0.5.0
+
+Initial OPT Support.
+
+### 0.4.0
+
+Initial support pass through for waterfall Extensions. Most configs seem to be working, with most engines supported. More support for these mods is planned, feel free to reach out with bugs, and other mods support!
